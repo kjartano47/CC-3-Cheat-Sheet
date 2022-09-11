@@ -3,9 +3,9 @@ body{
     background-color: #fafafa;
 }
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid #be97dc;
     border-collapse: collapse;
-    background-color: #fafafa; ;
+    background-color: #fafafa;
     padding: 2px 45px 2px;
 
   }
@@ -19,9 +19,13 @@ th{
     background-color:  #c4c1e0; 
 }
 .code{
-    background-color: #ffe9e3;
+    background-color: #fffbbe;
     font-family: monospace;
 }
+h1{
+color:#a374d5;
+}
+
 h2{
     color: #7c73e6;
 }
